@@ -1,0 +1,8 @@
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.AssemblyInfoInputs.cache
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.AssemblyInfo.cs
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.csproj.CoreCompileInputs.cache
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.RazorAssemblyInfo.cache
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.RazorAssemblyInfo.cs
+C:\Users\gfern\OneDrive\Área de Trabalho\LojaMVC\CP2_MVC\CP2_MVC\obj\Debug\net8.0\CP2_MVC.csproj.AssemblyReference.cache
