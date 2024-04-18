@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G1znExRtlqm8dI1ShKxAwECJZGdLHwRcgVoG0Y0XA3EJyLqbAWmiM7nPkDMKEpNSHoEVUKP0TUgaDiifaunWLg==",
+  "dgSpecHash": "KrMp+rZIV7u+MD74tI1TQSU5T6wBepD2LR5WUjGrZxT3K5SfFfqbHNgN6CmwJHcxgkIrHJsbXjcnIXy302iYxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gfern\\OneDrive\\Área de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\CP2_MVC.csproj",
+  "projectFilePath": "C:\\Users\\gfern\\OneDrive\\Área de Trabalho\\CP2_MVC\\CP2_MVC\\CP2_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gfern\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gfern\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

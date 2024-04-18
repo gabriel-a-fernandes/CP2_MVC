@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\lojamvc\\cp2_mvc\\cp2_mvc\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\lojamvc\\cp2_mvc\\cp2_mvc\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\lojamvc\\cp2_mvc\\cp2_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\lojamvc\\cp2_mvc\\cp2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|c:\\users\\gfern\\onedrive\\\u00E1rea de trabalho\\cp2_mvc\\cp2_mvc\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{088AD891-CA99-4484-BB45-DB1478DA32B4}|CP2_MVC\\CP2_MVC.csproj|solutionrelative:cp2_mvc\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +34,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CP2_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CP2_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T22:40:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CP2_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\appsettings.json",
+              "RelativeToolTip": "CP2_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T22:32:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\DTOs\\RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\DTOs\\RegisterDTO.cs",
               "RelativeDocumentMoniker": "CP2_MVC\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\DTOs\\RegisterDTO.cs",
               "RelativeToolTip": "CP2_MVC\\DTOs\\RegisterDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,11 +81,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "CP2_MVC\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Data\\DataContext.cs",
               "RelativeToolTip": "CP2_MVC\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,28 +94,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Program.cs",
               "RelativeDocumentMoniker": "CP2_MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Program.cs",
               "RelativeToolTip": "CP2_MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T21:02:46.623Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CP2_MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\LojaMVC\\CP2_MVC\\CP2_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gfern\\OneDrive\\\u00C1rea de Trabalho\\CP2_MVC\\CP2_MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CP2_MVC\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
